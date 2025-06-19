@@ -42,7 +42,7 @@ The following models were built and compared:<br>
 
 <br>
 
-**Libraries & Tools**<br>
+**Libraries & Tools**<br><br>
 Python (Jupyter Notebook)
 <br>
 Pandas, NumPy
