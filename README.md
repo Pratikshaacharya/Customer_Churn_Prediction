@@ -3,26 +3,26 @@
 This project aims to build a predictive model to identify customers who are likely to churn (i.e., stop using a service). Understanding churn behavior enables businesses to take proactive actions and retain valuable customers.
 <br><br>
 **Features**<br><br>
-Exploratory Data Analysis (EDA) with visual insights<br>
+* Exploratory Data Analysis (EDA) with visual insights<br>
 
-Data preprocessing: handling missing values, encoding categorical variables, and feature scaling<br>
+* Data preprocessing: handling missing values, encoding categorical variables, and feature scaling<br>
 
-Training and evaluation of five machine learning models<br>
+* Training and evaluation of five machine learning models<br>
 
-Comparative analysis of model performance using key classification metrics<br>
+* Comparative analysis of model performance using key classification metrics<br>
 
-Feature importance and insights for business strategy<br>
+* Feature importance and insights for business strategy<br>
 <br>
 **Dataset**<br><br>
 The dataset includes customer attributes such as:<br>
 
-Demographics: gender, senior citizen status, partner, dependents<br>
+**Demographics**: gender, senior citizen status, partner, dependents<br>
 
-Account Info: tenure, contract type, billing method, total charges<br>
+**Account Info**: tenure, contract type, billing method, total charges<br>
 
-Services: internet service, streaming services, online security, tech support<br>
+**Services**: internet service, streaming services, online security, tech support<br>
 
-Target Variable: Churn (Yes/No)<br>
+**Target Variable**: Churn (Yes/No)<br>
 
 <br>
 
