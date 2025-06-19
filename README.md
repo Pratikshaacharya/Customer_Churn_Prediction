@@ -14,7 +14,7 @@ This project aims to build a predictive model to identify customers who are like
 * Feature importance and insights for business strategy<br>
 <br>
 
-**Dataset**<br>
+**Dataset**<br><br>
 The dataset includes customer attributes such as:<br>
 
 * **Demographics**: gender, senior citizen status, partner, dependents<br>
@@ -27,7 +27,7 @@ The dataset includes customer attributes such as:<br>
 
 <br>
 
-**Models Trained**<br>
+**Models Trained**<br><br>
 The following models were built and compared:<br>
 
 1. Logistic Regression<br>
