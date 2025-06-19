@@ -13,7 +13,9 @@ This project aims to build a predictive model to identify customers who are like
 
 * Feature importance and insights for business strategy<br>
 <br>
+
 **Dataset**<br>
+
 The dataset includes customer attributes such as:<br>
 
 * **Demographics**: gender, senior citizen status, partner, dependents<br>
