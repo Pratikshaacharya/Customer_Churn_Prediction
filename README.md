@@ -16,13 +16,13 @@ This project aims to build a predictive model to identify customers who are like
 **Dataset**<br><br>
 The dataset includes customer attributes such as:<br>
 
-**Demographics**: gender, senior citizen status, partner, dependents<br>
+* **Demographics**: gender, senior citizen status, partner, dependents<br>
 
-**Account Info**: tenure, contract type, billing method, total charges<br>
+* **Account Info**: tenure, contract type, billing method, total charges<br>
 
-**Services**: internet service, streaming services, online security, tech support<br>
+* **Services**: internet service, streaming services, online security, tech support<br>
 
-**Target Variable**: Churn (Yes/No)<br>
+* **Target Variable**: Churn (Yes/No)<br>
 
 <br>
 
