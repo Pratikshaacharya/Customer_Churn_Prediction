@@ -15,7 +15,6 @@ This project aims to build a predictive model to identify customers who are like
 <br>
 
 **Dataset**<br>
-
 The dataset includes customer attributes such as:<br>
 
 * **Demographics**: gender, senior citizen status, partner, dependents<br>
